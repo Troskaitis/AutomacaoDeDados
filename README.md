@@ -24,6 +24,8 @@ Recomenda-se revisar e ajustar os caminhos XPath e outros elementos específicos
 Instalação
 Configuração do Ambiente
 Uso
+Acompanhamento da Execução
+Descompactação e Movimentação de Arquivos
 Instalação
 Antes de executar o script, assegure-se de ter o Python instalado em seu ambiente de desenvolvimento. Caso ainda não tenha o Python instalado, você pode baixá-lo e instalá-lo a partir do site oficial do Python.
 
