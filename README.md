@@ -85,7 +85,7 @@ instale tambem as seguintes bibliotecas no seu Prompt de Comando:
 
 Após realizar essas configurações, o ambiente estará pronto para a execução bem-sucedida do script de extração de relatórios de telefonia.
 
-## uso
+## Uso
 
 Para utilizar o script de extração de relatórios de telefonia, siga os passos abaixo:
 
