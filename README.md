@@ -1,6 +1,5 @@
+# Extração Automatizada de Relatório de Telefonia
 
-
-Extração Automatizada de Relatório de Telefonia
 Este script Python foi desenvolvido para realizar a extração automatizada de um relatório de telefonia denominado 'Detalhamento de Chamadas Recebidas'. O relatório é obtido por meio da interface web na plataforma Elev, especificamente em três diferentes sites correspondentes a cada matriz da empresa.
 
 Periodicidade e Critérios Temporais
