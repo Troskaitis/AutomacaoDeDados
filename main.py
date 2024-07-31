@@ -152,9 +152,9 @@ driver.maximize_window()
 
 # Sites a serem percorridos
 sites = [
-    "http://pabxsbc:9000/nxt3000/login.php",
-    "http://pabxbf:9000/nxt3000/login.php",
-    "http://pabxliberty:9000/nxt3000/login.php",
+    "http://sitefilial1",
+    "http://sitefilial2",
+    "http://sitefilial3",
 ]
 
 # XPath para os campos de usuário e senha (substitua pelos valores corretos)
