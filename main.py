@@ -37,7 +37,7 @@ def realizar_etapas_para_site(driver, site):
                 driver, data_final_xpath, data_final
             )
             # desmarcar o checkbox
-            if site == "http://pabxbf:9000/nxt3000/login.php":
+            if site == "http://sitefilial2":
                 checkbox = driver.find_element(By.XPATH, '//*[@id="ativo-t"]')
                 if checkbox.is_selected():
                     checkbox.click()
@@ -46,7 +46,7 @@ def realizar_etapas_para_site(driver, site):
             try:
                 _extracted_from_realizar_etapas_para_site_48(driver, exportar_xpath, 20)
                 # Lidar com o pop-up apenas para o site específico
-                if site == "http://pabxbf:9000/nxt3000/login.php":
+                if site == "http://sitefilial2":
                     lidar_com_popup(driver)
 
             except Exception:
