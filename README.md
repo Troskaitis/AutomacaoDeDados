@@ -21,9 +21,9 @@ Isso resulta na obtenção do consolidado do mês anterior, proporcionando uma v
 Sites e Matrizes Correspondentes:
 O script foi concebido para interagir com os seguintes sites, cada um associado a uma matriz específica da empresa:
 
-1. Site SBC: 'http://pabxbf:9000/nxt3000/login.php'
-2. Site BF: 'http://pabxsbc:9000/nxt3000/login.php'
-3. Site Liberty: 'http://pabxliberty:9000/nxt3000/login.php'
+1. Site 1: 'site 1'
+2. Site 2: 'site 2'
+3. Site 3: 'site 3'
 
 Observações:
 
@@ -111,9 +111,9 @@ password_xpath = "/caminho/do/campo/de/senha"
 Sites a serem percorridos:
 
 sites = [
-"http://pabxsbc:9000/nxt3000/login.php",
-"http://pabxbf:9000/nxt3000/login.php",
-"http://pabxliberty:9000/nxt3000/login.php"
+"site 1",
+"site 2",
+"site 3"
 ]
 
 4. Execução do Script:
